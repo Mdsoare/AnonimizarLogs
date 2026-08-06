@@ -86,7 +86,7 @@ O script localiza padrões chave/valor delimitados por parênteses colchetes `[ 
 
 ---
 
-## 📄 Estrutura do Repositório Sugerida
+## 📄 Estrutura do Repositório
 
 ```text
 .
