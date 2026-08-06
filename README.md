@@ -91,8 +91,10 @@ O script localiza padrões chave/valor delimitados por parênteses colchetes `[ 
 ```text
 .
 ├── .gitignore
+├── LICENSE
 ├── README.md
 └── scripts/
+    ├── .gitignore
     ├── anonimiza_2.0.ps1    # Script Principal (Em Lote / Recursivo)
     └── sanitizar.ps1        # Script Auxiliar (Arquivo Único)
 ```
