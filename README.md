@@ -1,4 +1,8 @@
-# Log Sanitizer & Anonymizer (PowerShell)
+# 🧹 Log-Privacy-masker — PowerShell Log Anonymization & PII Masking
+
+![PowerShell](https://img.shields.io/badge/powershell-5.1%2B%20%7C%207%2B-blue.svg)
+![License MIT](https://img.shields.io/badge/license-MIT-green.svg)
+![Compliance](https://img.shields.io/badge/compliance-LGPD%20%7C%20GDPR-purple.svg)
 
 Ferramenta em PowerShell para localização e mascaramento de dados sensíveis (PII, credenciais, nomes e tokens) em arquivos de log, garantindo conformidade com regras de proteção de dados (**LGPD**) e boas práticas de segurança da informação.
 
